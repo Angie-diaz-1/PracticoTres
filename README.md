@@ -13,5 +13,5 @@ Este proyecto es realizado en Java para la implementacion de GIT en la clase de 
 ## Herramientas
 * Netbeans
 
-## Autores
-Angie Diaz 
+## Autores
+* Angie Diaz 
